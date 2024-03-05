@@ -16,28 +16,30 @@ By completing this reflection, you will gain a clearer understanding of your car
 
 ### Personal Information
 
-- **Name:**
-- **Date:**
-- **Current Role/Position:**
-- **Field of Interest:**
+- **Name:** KGOMOTSO MOROBANE
+- **Date:** 04 MARCH 2024
+- **Current Role/Position:** STUDENT
+- **Field of Interest:** SOFTWARE DEVELOPMENT
 
 ### Part 1: Self-Assessment Reflection
 
 1. **Skills Analysis**:
     
-    - List your current skills and areas of expertise.
-    - Identify skills you need to develop or improve.
+    - My current skills are HTML5, CSS3, TAILWIND CSS, and JAVASCRIPT. While my areas of expertise are HTML5 and CSS3.
+    - The skills I need to improve more are TAILWIND CSS and JAVASCRIPT.
+      
 2. **Interests and Values**:
     
-    - Describe your key interests related to your career.
-    - What values are important to you in a work environment?
+    - My key interests are UI/UX design.
+    - Realiability is an important value for me in a work environment because if we were to work on one project together we need to both be reliable to meet the design brief and deadline.
 
 ### Part 2: Career Exploration Insights
 
 1. **Industries and Roles Explored**:
     
-    - List the industries or roles you have researched.
-    - Note any particular areas that piqued your interest.
+    - I have researched on UI/UX Design and Frontend Development to compare the 2 in regards to my interests and experties.
+    - UI/UX stood out the most form me as I resonated with what one does in that field.
+      
 2. **Alignment with Personal Profile**:
     
     - Reflect on how these industries/roles align with your skills, interests, and values.
@@ -47,7 +49,7 @@ By completing this reflection, you will gain a clearer understanding of your car
 
 1. **Short-term Goals** (Next 1-2 years):
     
-    - List your specific, measurable, achievable, relevant, and time-bound goals.
+    - 
     - Explain the rationale behind each goal.
 2. **Long-term Goals** (3-5 years and beyond):
     
