@@ -35,12 +35,14 @@
 
 1. **Short-term Goals** (Next 1-2 years):
     
-    - 
-    - Explain the rationale behind each goal.
+• In the next year my goal is to to fully immerse myself in the tech industry specifically my interest and completeing real-life projects. 
+  After getting the hang and feel of the industry and possibly obtaining the necessary qualifications, I will now be branching out into 
+looking for employment in my desired field.
+
+
 2. **Long-term Goals** (3-5 years and beyond):
     
-    - Outline your long-term career aspirations.
-    - Describe how these align with your interests and skills.
+•  In the next 3-5 years my goals are to become a qualified full stack developer and UI/UX deginer
 
 ### Part 4: Action Plan
 
