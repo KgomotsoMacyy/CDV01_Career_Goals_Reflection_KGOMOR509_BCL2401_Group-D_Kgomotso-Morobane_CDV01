@@ -1,18 +1,4 @@
 
-# Career Goals Reflection Template
-
-### Introduction to the Template
-
-This "Career Goals Reflection" template is designed to assist you in articulating and structuring your thoughts about your career aspirations. By using this template, you can clearly define your goals, understand your motivations, and outline the steps you plan to take to achieve these goals.
-
-### Instructions for Using the Template:
-
-- Take your time to thoughtfully respond to each section.
-- Be as specific and detailed as possible in your responses.
-- Remember, this is a living document. Revisit and update it regularly as your goals and circumstances evolve.
-- Use the insights gained from this reflection to guide your decision-making and actions in your professional development.
-
-By completing this reflection, you will gain a clearer understanding of your career aspirations and the steps needed to achieve them. This document can serve as a roadmap and a source of motivation as you progress in your professional journey.
 
 ### Personal Information
 
@@ -60,30 +46,46 @@ By completing this reflection, you will gain a clearer understanding of your car
 
 1. **Steps to Achieve Short-term Goals**:
     
-    - Detail specific actions or steps needed to achieve each short-term goal.
-    - Include any resources or support required.
+•   I have actually created a study schedule for myself and updated my calendar to 
+    remind me. Adapting to creating at least 1 hands on practice project.
+
+ 
+•   I've actually looked for some mentorship from people who has experience int the 
+    field of programming to seek guidance and insights from them.
+
+    
 2. **Preparation for Long-term Goals**:
     
-    - Describe the preparations or groundwork necessary for your long-term aspirations.
-    - Consider additional skills, experiences, or qualifications needed.
+•   Long term aspirations require you to define clear objectives, I must be 
+    disciplined to continuous learning, like keep learning new stuff for example 
+    there's plenty of programming languages to learn.
+
+    
+•    As I have included before Networking is a good concept to learn about, also 
+    data science analyst is also not bad, working on data-driven projects.
 
 ### Part 5: Reflection on Challenges and Opportunities
 
 1. **Anticipated Challenges**:
     
-    - Identify potential obstacles or challenges in reaching your goals.
-    - Consider strategies to overcome these challenges.
+•  Evolution of other technologies could lead to the obsolescence of certain 
+   skills. Also work-life balance.
+
+•  Since overcoming challenges is often an ongoing process you should dedicate time 
+   for continuous learning through online courses to keep up with evolving 
+   technologies. Set clear boundaries between work and personal life to accommodate 
+   work-life balance.
+
+   
 2. **Opportunities for Growth**:
     
-    - Highlight any opportunities you can leverage for career growth.
-    - Include networking, mentorship, or educational opportunities.
+•  Continuous learning: adapt to a culture of learning to stay updated with new 
+   technologies and industry trends.
 
-### Submission
+   
+•  Enroll in formal mentorship programs offered by companies, professional 
+   organizations, or educational institutions.
 
-- To complete this submission you will need to use this template and complete Parts 1 to 5.
-- Note this reflection Template is a guide to help prompt your reflections in each section.
-- You will fill in your reflections for each seciton under Parts 1 to 5.
-- Change the name of your forked CDV01_Career_Goals_Reflection_StudentNo_Classcode_Group_Name-Surname_CDV01 repository to reflect your Student Number, ClassCode, Group Name and Name.
-- You will then submit a link to your renamed CDV01 GitHub repo to the CDV01 Project Tab on the LMS.
+
 
 
